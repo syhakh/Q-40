@@ -16,7 +16,8 @@
 ![1](https://user-images.githubusercontent.com/37302820/115950968-e4b41900-a510-11eb-9110-e5e9fb60a823.PNG)
 #### 运行视频
 https://user-images.githubusercontent.com/37302820/131082799-31168bd8-9e89-445e-9a96-8b4b0058ed5b.mp4
-
+#### 运行截图（新版本）
+<img width="866" alt="表格系统问答界面" src="https://user-images.githubusercontent.com/37302820/148685136-0894af84-1257-44d4-b7b8-956e94c57600.PNG">
 
 
 
